@@ -1,3 +1,8 @@
 /.env
-/hh_main.py
+/analytics.py
+/app_for_negotiations.py
 /app.py
+/find_vacancies.py
+/popilar_skills.py
+/refresh_token.py
+/test.py
